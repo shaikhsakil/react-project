@@ -11,7 +11,7 @@ function App() {
 
       
       <div className="main_content">
-        <div className="section pb_20">
+        <div className="section pb_20 class">
           <div className="container">
             <div className="row">
               <div className="col-md-6">
